@@ -1,0 +1,47 @@
+body {
+   text-align: center;
+ background: #fffff;
+}
+
+em strong{
+    color: rgb(0, 0, 0)
+}
+
+#banner {
+     width: 70%;
+}
+
+.principal{
+ background-color:floralwhite:
+padding: 20px;
+}
+
+h1{
+text-align: center;
+height:80x;
+border: 10px solid #dcdcdc
+
+}
+.beneficos{
+background-color: blue
+padding: 80px;
+}
+
+.imagembeneficos {
+width: 80%;
+}
+
+.itens{
+font-size: 20
+font-style italic
+}
+
+ul{
+display: inline-block;
+vertical-align: top;
+width: 20%;
+margin-right: 15%;
+}
+
+
+
